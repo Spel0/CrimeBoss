@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 Plugins/Wwise
 *.sublime-workspace
+
+CrimeBoss_WwiseProject
