@@ -77,3 +77,4 @@ Plugins/Wwise
 *.sublime-workspace
 
 CrimeBoss_WwiseProject
+Cooked/*
